@@ -15,9 +15,9 @@ import (
 func main() {
 	var curlOpt []string
 	opt := make(Opt)
-	apiKey := "Tp3bIrUoG13eoE5GvwVRcI9W"
+	apiKey := ""
 	//apiKey := "123"
-	secretKey := "ItaHRAXueuTwYPANjLtNcA4mRObGoi1e"
+	secretKey := ""
 	//userId := "813292011209507601";
 	//userId := "1148340223945189762";
 	userId := "868725677998357477"; //iPhone
